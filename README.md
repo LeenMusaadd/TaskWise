@@ -104,3 +104,12 @@ Here are some planned features to expand and improve TaskWise:
 
 ## Resources
 - [React Native Documentation](https://reactnative.dev/docs/components-and-apis)
+
+
+## Team Members  
+TaskWise was developed by:  
+- **Aroub Yousef Alomayrini**  
+- **Leen Musaad Albishri**  
+- **Fai Abdulaziz Bin Onayq**  
+- **Shatha **  
+
