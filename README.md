@@ -16,7 +16,37 @@ TaskWise is a versatile reminder app designed to keep users organized and on tra
 - Android Studio
 
 ## Navigation Structure
-
+.
+├── Account
+│   ├── ForgotPassword.js
+│   ├── Login.js
+│   ├── ProfilePage.js
+│   └── SignUp.js
+│   
+├── Calendar
+│   ├── EditTask.js
+│   ├── add.js
+│   └── calendar.js
+│
+├── Courses
+│   ├── AddCourse.js
+│   ├── CourseInfoScreen.js
+│   ├── CoursesScreen.js
+│   └── EditCourse.js
+│
+├── GPA
+│   └── GPACalculator.js
+│
+├── assets
+│   └── Logo.png
+│
+├── App.js
+├── SplashScreen.js
+├── firebaseConfig.js
+├── app.json
+├── index.js
+├── package-lock.json
+└── package.json
 
 ## Steps
 1. **Calendar Page**: Features a stack navigation structure, allowing users to seamlessly navigate to the Add Task page.
@@ -31,6 +61,9 @@ TaskWise is a versatile reminder app designed to keep users organized and on tra
 3. Choose one of the following options to run the app:
    - **On a physical device**: Download the Expo Go app on your phone, scan the QR code generated in the terminal, and the app will launch on your device.
    - **Using Android Studio**: In the terminal, press the `A` key to launch the app on the Android emulator. Ensure you have Android Studio installed with a configured virtual device.
+
+##External Information
+- Password should be at least 6 characters.
 
 ## Future Work
 
