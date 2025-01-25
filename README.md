@@ -16,37 +16,35 @@ TaskWise is a versatile reminder app designed to keep users organized and on tra
 - Android Studio
 
 ## Navigation Structure
-.
-├── Account
-│   ├── ForgotPassword.js
-│   ├── Login.js
-│   ├── ProfilePage.js
-│   └── SignUp.js
-│   
-├── Calendar
-│   ├── EditTask.js
-│   ├── add.js
-│   └── calendar.js
-│
-├── Courses
-│   ├── AddCourse.js
-│   ├── CourseInfoScreen.js
-│   ├── CoursesScreen.js
-│   └── EditCourse.js
-│
-├── GPA
-│   └── GPACalculator.js
-│
-├── assets
-│   └── Logo.png
-│
-├── App.js
-├── SplashScreen.js
-├── firebaseConfig.js
-├── app.json
-├── index.js
-├── package-lock.json
-└── package.json
+## Project Structure
+
+| Directory / File      | Description                     |
+|-----------------------|---------------------------------|
+| **Account**           |                                 |
+| ├── ForgotPassword.js | Handles password recovery       |
+| ├── Login.js          | User login functionality        |
+| ├── ProfilePage.js    | Displays user profile           |
+| └── SignUp.js         | User sign-up functionality      |
+| **Calendar**          |                                 |
+| ├── EditTask.js       | Edit tasks in the calendar      |
+| ├── add.js            | Add tasks to the calendar       |
+| └── calendar.js       | Main calendar functionality     |
+| **Courses**           |                                 |
+| ├── AddCourse.js      | Add new courses                 |
+| ├── CourseInfoScreen.js | View detailed course info      |
+| ├── CoursesScreen.js  | Display all courses             |
+| └── EditCourse.js     | Edit existing courses           |
+| **GPA**               |                                 |
+| └── GPACalculator.js  | Calculate GPA                   |
+| **assets**            |                                 |
+| └── Logo.png          | Application logo                |
+| App.js                | Main app file                   |
+| SplashScreen.js       | Splash screen                   |
+| firebaseConfig.js     | Firebase configuration          |
+| app.json              | Application configuration       |
+| index.js              | Application entry point         |
+| package-lock.json     | NPM dependencies (lock file)    |
+| package.json          | Project dependencies            |
 
 ## Steps
 1. **Calendar Page**: Features a stack navigation structure, allowing users to seamlessly navigate to the Add Task page.
