@@ -17,8 +17,6 @@ TaskWise is a versatile reminder app designed to keep users organized and on tra
 - Android Studio
 
 ## Navigation Structure
-## Project Structure
-
 | Directory / File      | Description                     |
 |-----------------------|---------------------------------|
 | **Account**           |                                 |
