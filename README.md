@@ -59,7 +59,7 @@ TaskWise is a versatile reminder app designed to keep users organized and on tra
    - **On a physical device**: Download the Expo Go app on your phone, scan the QR code generated in the terminal, and the app will launch on your device.
    - **Using Android Studio**: In the terminal, press the `A` key to launch the app on the Android emulator. Ensure you have Android Studio installed with a configured virtual device.
 
-##External Information
+## External Information
 - Password should be at least 6 characters.
 
 ## Future Work
