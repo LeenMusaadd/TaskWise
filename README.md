@@ -83,7 +83,7 @@ TaskWise is a versatile reminder app designed to keep users organized and on tra
      - **Cumulative GPA**: Based on all courses.  
      - **Semester GPA**: Based on courses for the current semester only.  
 
-## Stack Fold
+## Getting Started
 1. Open your terminal in Visual Studio Code.
 2. Run the command `npm install` to install all needed packages.
 3. Run the command `npx expo start` to start the Expo development server.
