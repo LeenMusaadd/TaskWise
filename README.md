@@ -111,5 +111,4 @@ TaskWise was developed by:
 - **Aroub Yousef Alomayrini**  
 - **Leen Musaad Albishri**  
 - **Fai Abdulaziz Bin Onayq**  
-- **Shatha **  
 
