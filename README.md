@@ -7,7 +7,8 @@
 TaskWise is a versatile reminder app designed to keep users organized and on track. Users can easily add tasks by specifying a title, description, and the exact date they want to be reminded. The app also features a dedicated Courses section, allowing users to manage their current courses by adding details such as the course name, code, credits, schedule, and any additional notes. Additionally, TaskWise includes a GPA Calculator to help users efficiently monitor and calculate their academic performance.
 
 ## External Link
-[Watch Demo Video on YouTube](https://www.youtube.com/watch?v=4iUNDNPPw0g)
+[Download and Watch Demo Video](video/video demo.mp4)
+
 
 ## Set Up
 - React Native: version 19.0.0
