@@ -104,6 +104,7 @@ Here are some planned features to expand and improve TaskWise:
 
 ## Resources
 - [React Native Documentation](https://reactnative.dev/docs/components-and-apis)
+- [React Native Calendars](https://www.youtube.com/watch?v=F_Ir3uToF8c&t=163s)
 
 
 ## Team Members  
